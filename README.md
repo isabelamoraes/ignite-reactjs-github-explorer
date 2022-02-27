@@ -24,10 +24,10 @@ To clone and run this application, place from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/isabelamoraes/ignite-reacjs-github-explorer.git
+$ git clone https://github.com/isabelamoraes/ignite-reactjs-github-explorer.git
 
 # Go into the repository
-$ cd ignite-reacjs-github-explorer
+$ cd ignite-reactjs-github-explorer
 
 # Install dependencies
 $ yarn
